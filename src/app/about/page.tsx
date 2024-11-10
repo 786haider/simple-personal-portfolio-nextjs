@@ -17,7 +17,7 @@ export default function About(){
 </h1>
 <h1 className="mt-6 text-4xl text-black"><b><i><u>As Web Developer</u></i></b></h1>
 <p className="mt-3 text-4xl text-black">
-Hi, I'm Haider Hussain,  a frontend web developer <br/> with two years of experience in creating dynamic and <br/> responsive websites. Over the  past two years, I've honed my <br/> skills as a freelancer, building user-friendly interfaces and <br/> optimizing web performance. I’m passionate about turning <br/> design concepts into engaging  web experiences.
+Hi, I`m Haider Hussain,  a frontend web developer <br/> with two years of experience in creating dynamic and <br/> responsive websites. Over the  past two years, I`ve honed my <br/> skills as a freelancer, building user-friendly interfaces and <br/> optimizing web performance. I’m passionate about turning <br/> design concepts into engaging  web experiences.
 </p>
 <h1 className="mt-6 text-4xl text-black"><b><i><u>As UX/UI Designer</u></i></b></h1>
 <p className="mt-3 text-4xl text-black">

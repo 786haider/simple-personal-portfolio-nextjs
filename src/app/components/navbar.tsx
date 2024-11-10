@@ -20,7 +20,7 @@ export default function Navbar() {
                     <h1 className='text-xl md:text-3xl mt-5 ml-3 font-extrabold text-violet-950'>
                         <i>
                             <u>
-                                Haider Hussain's Portfolio!
+                                Haider Hussain`s Portfolio!
                             </u>
                         </i>
                     </h1>
